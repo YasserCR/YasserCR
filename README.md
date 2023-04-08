@@ -16,7 +16,7 @@ Me llamo Gustavo Yasser, pero prefiero que se refieran a mi por Yasser. Soy un a
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/> www.linkedin.com/in/gustavo-yasser-camarillo-rosas-3b1a95208
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/email/email-original.svg" alt="Email" width="20" height="20"/> yassros16@gmail.com
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20" height="20"/> yassros16@gmail.com
 
 <!--
 **YasserCR/YasserCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
