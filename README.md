@@ -14,7 +14,7 @@ Me llamo Gustavo Yasser, pero prefiero que se refieran a mi por Yasser. Soy un a
 
 ## Contacto
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>´www.linkedin.com/in/gustavo-yasser-camarillo-rosas-3b1a95208
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/> www.linkedin.com/in/gustavo-yasser-camarillo-rosas-3b1a95208
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/email/email-original.svg" alt="Email" width="20" height="20"/> yassros16@gmail.com
 
