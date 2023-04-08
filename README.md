@@ -6,17 +6,17 @@ Me llamo Gustavo Yasser, pero prefiero que se refieran a mi por Yasser. Soy un a
 
 ## Habilidades
 
-- **Typescript** `<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>`
-- **Javascript** `<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>`
-- **Java** ´<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>´
-- **Go** ´<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/>´
-- **React Native** ´<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="20" height="20"/>´
+- **Typescript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
+- **Javascript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+- **Java** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
+- **Go** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/>
+- **React Native** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="20" height="20"/>
 
 ## Contacto
 
-- ´<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>´ www.linkedin.com/in/gustavo-yasser-camarillo-rosas-3b1a95208
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>´www.linkedin.com/in/gustavo-yasser-camarillo-rosas-3b1a95208
 
-- ´<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/email/email-original.svg" alt="Email" width="20" height="20"/>´ yassros16@gmail.com
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/email/email-original.svg" alt="Email" width="20" height="20"/> yassros16@gmail.com
 
 <!--
 **YasserCR/YasserCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
