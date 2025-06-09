@@ -27,7 +27,7 @@ Desarrollador **Fullstack** con experiencia en backend y frontend, creando soluc
 
 ### Frontend
 - **Angular**
-- **React / Next.js**
+- **React / Next.js / React Native**
 - **Vue.js**
 
 ### Nube
@@ -91,7 +91,7 @@ Fullstack Developer \| Backend & Frontend \| Cloud \| APIs
 
 ### Frontend
 - **Angular**
-- **React / Next.js**
+- **React / Next.js / React Native**
 - **Vue.js**
 
 ### Cloud
