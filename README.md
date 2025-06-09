@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Soy Yasser. Soy un apasionado por los videojuegos, en especial por la saga de **Monster Hunter**. También me gusta escuchar música y ver tutoriales de todo tipo, una de mis grandes pasiones es aprender sobre la anatomía humana.
+Soy Yasser. Soy un apasionado por los videojuegos, en especial por la saga de **Monster Hunter**. También me gusta escuchar música y aprender de multiples tecnologías, una de mis grandes pasiones es aprender sobre la anatomía humana.
 
 ## Habilidades
 
